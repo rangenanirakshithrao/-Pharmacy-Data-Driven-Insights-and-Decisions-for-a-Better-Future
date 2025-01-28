@@ -51,6 +51,3 @@ Interactive dashboards created in **Tableau** included:
 ## Conclusion  
 The project offers a data-driven approach to understanding pharmacy sales, emphasizing trends and strategies for enhanced decision-making and growth.
 
----
-
-You can copy-paste this into your GitHub repository’s `README.md` file. It’s formatted for clarity and effectively highlights the project’s goals, findings, tools, and impact.
