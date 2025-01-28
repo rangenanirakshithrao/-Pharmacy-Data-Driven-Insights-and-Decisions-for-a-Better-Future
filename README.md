@@ -1,6 +1,3 @@
-Here’s a structured README file for your GitHub repository based on the provided PDF:
-
----
 
 # Pharmacy Data-Driven Insights and Decisions for a Better Future
 
